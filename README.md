@@ -1,6 +1,10 @@
 # 💫About Me :
 I'm studying Electrical engineering at Isfahan University of Technology 💥🧑‍🔧
+
+
 I'm interested in programming and Web development 🧑‍💻
+
+
 Game addict😎🎮
 
 ## 🌐Socials
