@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm an Electrical Engineering student (Communication) at Isfahan University of Technology.
+I'm an Electrical Engineering student (Telecommunication) at Isfahan University of Technology.
 I love coding.
 
 
